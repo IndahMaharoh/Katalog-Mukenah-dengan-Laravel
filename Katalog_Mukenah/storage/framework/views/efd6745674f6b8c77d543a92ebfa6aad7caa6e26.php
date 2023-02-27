@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\Katalog_Mukenah\resources\views/layouts/master.blade.php ENDPATH**/ ?>
